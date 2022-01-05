@@ -1,1 +1,2 @@
 i am learning the github i am sure will lear this 
+I have added a new branch called bug fix
